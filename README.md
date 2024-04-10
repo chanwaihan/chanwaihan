@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Responsive Web Design**
+- 🌱 I’m currently learning **Web3 Development**
 
 - 📫 How to reach me **shanechanwh@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16itoWOnGr9dItE1aQiGPjHtauiD8tCpd/view?usp=share_link](https://drive.google.com/file/d/16itoWOnGr9dItE1aQiGPjHtauiD8tCpd/view?usp=share_link)
 
 - ⚡ Fun fact **I love coffee**
 
